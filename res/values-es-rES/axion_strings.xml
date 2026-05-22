@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temas</string>
+
+    <string name="system_themes_title">Temas del sistema</string>
+    <string name="system_icons_title">Iconos del sistema</string>
+    <string name="no_theme_packages">No hay paquetes de temas instalados</string>
+    <string name="no_theme_packages_desc">Instala paquetes de temas para personalizar los iconos del sistema y la interfaz</string>
+    <string name="theme_applied">Aplicado</string>
+    <string name="theme_not_applied">No aplicado</string>
+    <string name="create_theme">Crear tema</string>
+    <string name="theme_creator_title">Creador de temas</string>
+    <string name="theme_name">Nombre del tema</string>
+    <string name="theme_name_hint">Asigna un nombre a tu tema para identificarlo más tarde</string>
+    <string name="section_wifi_icons">Iconos Wi-Fi</string>
+    <string name="section_signal_icons">Iconos de señal móvil</string>
+    <string name="wifi_icons_desc">Reemplaza los 5 indicadores de intensidad de señal Wi-Fi mostrados en la barra de estado</string>
+    <string name="signal_icons_desc">Reemplaza los 5 indicadores de intensidad de señal móvil mostrados en la barra de estado</string>
+    <string name="current_icons_label">ACTUALES</string>
+    <string name="your_icons_label">TUS REEMPLAZOS</string>
+    <string name="import_drawable">Importar</string>
+    <string name="save_and_apply">Guardar y aplicar</string>
+    <string name="save_and_apply_count">Guardar y aplicar (%d iconos)</string>
+    <string name="creator_guide_title">Cómo crear un tema de iconos del sistema</string>
+    <string name="creator_guide_body">Reemplaza los iconos de la barra de estado del sistema con los tuyos. Importa imágenes PNG o vectoriales (se recomienda 24×24dp, fondo transparente y primer plano blanco). El sistema las coloreará automáticamente para que coincidan con tu tema. No necesitas reemplazar todos los iconos: solo se sobrescribirán los que importes.</string>
+    <string name="advanced_overrides">Avanzado: sobrescribir cualquier drawable</string>
+    <string name="advanced_overrides_desc">Busca y reemplaza cualquier recurso drawable del sistema por nombre</string>
+    <string name="search_resource_name">Nombre del recurso</string>
+    <string name="search_resource_hint">ej. ic_bluetooth, stat_sys_data, ic_qs_</string>
+    <string name="search_results_count">%d recursos encontrados</string>
+
+    <string name="featured">Destacados</string>
+    <string name="installed">Instalados</string>
+    <string name="themes">Temas</string>
+    <string name="search_themes">Buscar temas</string>
+    <string name="recent_searches">Búsquedas recientes</string>
+    <string name="no_recent_searches">No hay búsquedas recientes</string>
+    <string name="clear_all">Borrar todo</string>
+    <string name="no_results_found">No se encontraron resultados</string>
+
+    <string name="loading_themes">Cargando temas…</string>
+    <string name="failed_to_load_themes">Error al cargar los temas</string>
+    <string name="no_themes_found">No se encontraron temas</string>
+    <string name="no_themes_available">No hay temas disponibles</string>
+    <string name="try_different_search">Prueba con otro término de búsqueda</string>
+    <string name="check_back_later">Vuelve más tarde para ver nuevos temas</string>
+    <string name="retry">Reintentar</string>
+
+    <string name="installed_components">Componentes instalados</string>
+    <string name="active_theme_components">Componentes activos del tema</string>
+    <string name="active_theme_components_desc">Ver todos los componentes aplicados actualmente al sistema</string>
+    <string name="ui_style">Estilo de interfaz</string>
+    <string name="icon_theme_components">Componentes del tema de iconos</string>
+    <string name="no_icon_themes_installed">No hay temas de iconos instalados</string>
+    <string name="browse_for_icon_themes">Explora la tienda de temas para instalar temas de iconos</string>
+    <string name="active">Activo</string>
+
+    <string name="app_icon_packs">Paquetes de iconos</string>
+    <string name="themed_icons">Iconos temáticos</string>
+    <string name="themed_icons_desc">Iconos monocromáticos que se adaptan a los colores de tu fondo de pantalla</string>
+    <string name="icon_style">Estilo de iconos</string>
+    <string name="axicons">AxIcons</string>
+    <string name="neutral">Neutral</string>
+    <string name="aosp">AOSP</string>
+    <string name="accent">Acento</string>
+    <string name="default_system_icon_pack">Paquete de iconos predeterminado del sistema</string>
+
+    <string name="download">Descargar</string>
+    <string name="install">Instalar</string>
+    <string name="apply">Aplicar</string>
+    <string name="apply_changes">Aplicar cambios</string>
+    <string name="disable">Desactivar</string>
+    <string name="uninstall">Desinstalar</string>
+    <string name="resume_installation">Reanudar instalación</string>
+    <string name="downloading">Descargando %s…</string>
+    <string name="installing">Instalando…</string>
+    <string name="update_to">Actualizar a v%s</string>
+    <string name="pending_changes">Cambios pendientes</string>
+    <string name="components">Componentes</string>
+    <string name="tags">Etiquetas</string>
+    <string name="error_prefix">Error: %s</string>
+    <string name="components_installed">%1$d de %2$d componentes instalados</string>
+
+    <string name="back">Atrás</string>
+    <string name="search">Buscar</string>
+    <string name="refresh">Actualizar</string>
+    <string name="remove">Eliminar</string>
+    <string name="clear">Limpiar</string>
+
+    <string name="default_ui_style">Predeterminado (Axion)</string>
+</resources>
